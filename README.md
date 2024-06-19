@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ROS publisher/subscriber for rgbd image and its point cloud 
 
 Example of usage:
@@ -109,6 +109,4 @@ Installation commands:
     ``` bash
     pip install --user open3d
     ```
-=======
-# pub_and_sub_rgbd_and_cloud
->>>>>>> 809163d6a832d6c829071e7a1784a908e690ac85
+
